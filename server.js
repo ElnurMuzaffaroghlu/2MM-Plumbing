@@ -352,7 +352,7 @@ fs.readdir(uploadsDir, (err, files) => {
 
 // ============ START SERVER ============
 const server = app.listen(PORT, () => {
-  console.log(`\n  2MM Contractor server running at:`);
+  console.log(`\n  2MM Plumbing server running at:`);
   console.log(`  http://localhost:${PORT}\n`);
   console.log(`  Telegram: @YavuzMM_bot (Chat ID: ${CHAT_ID})`);
   console.log(`  Email: ${process.env.GMAIL_USER || 'not configured'}`);

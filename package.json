@@ -1,7 +1,7 @@
 {
-  "name": "2mm-contractor",
+  "name": "2mm-plumbing",
   "version": "1.0.0",
-  "description": "2MM Contractor — Plumbing & Handyman website with Telegram/email notifications",
+  "description": "2MM Plumbing — Plumbing & Handyman website with Telegram/email notifications",
   "main": "server.js",
   "engines": {
     "node": ">=16.0.0"
